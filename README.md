@@ -5,7 +5,7 @@ RelRNA is a framework for solving the problem of "RNA inverse folding", as used 
 **This code is merely for demonstration purposes.**
 Programming language: Python 2.7
 
-![alt text](./data/sample_structure.png)
+![alt text](https://github.com/pkohvaei/RelRNA/blob/master/data/sample_sturcture.png)
 
 ### Summary ###
 
